@@ -1,0 +1,9 @@
+{
+    "name": "Calculadora de Ferias",
+    "short_name": "Cal. de Ferias",
+    "description": "Calcula valores a receber ao sair de Ferias",
+    "start_url": "https://geovanecdprojeto-creator.github.io/calculadora-de-f-rias/",
+    "display": "fullscreen",
+    "orientation": "portrait",
+    "scope": "/"
+}
